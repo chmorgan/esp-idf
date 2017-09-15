@@ -33,3 +33,7 @@
 [submodule "components/spiffs/spiffs"]
 	path = components/spiffs/spiffs
 	url = https://github.com/pellepl/spiffs.git
+
+[submodule "components/libesphttpd"]
+	path = components/libesphttpd
+	url = git@github.com:chmorgan/libesphttpd.git
