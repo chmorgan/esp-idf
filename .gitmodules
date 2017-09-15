@@ -29,3 +29,6 @@
 [submodule "components/libsodium/libsodium"]
 	path = components/libsodium/libsodium
 	url = https://github.com/jedisct1/libsodium.git
+[submodule "components/libesphttpd"]
+	path = components/libesphttpd
+	url = git@github.com:chmorgan/libesphttpd.git
